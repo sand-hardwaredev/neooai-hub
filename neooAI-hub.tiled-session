@@ -31,6 +31,20 @@
         "neooAI-hub-analyze.json#neooAI-hub-analyze": {
             "scaleInDock": 1
         },
+        "neooAI-hub-clarify.json": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1397.333333333333,
+                "y": 1149.3333333333333
+            }
+        },
+        "neooAI-hub-clarify.json#Collides": {
+            "scaleInDock": 1
+        },
+        "neooAI-hub-clarify.json#neooAI-hub-clarify": {
+            "scaleInDock": 1
+        },
         "neooAI-hub-lobby.json": {
             "scale": 0.75,
             "selectedLayer": 15,
