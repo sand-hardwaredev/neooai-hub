@@ -3,12 +3,14 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "neooAI-hub-lobby.json",
     "expandedProjectPaths": [
+        "."
     ],
     "fileStates": {
         "": {
-            "scaleInDock": 1
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         },
         "#neooAI-hub-analyze": {
             "scaleInEditor": 1
@@ -16,12 +18,27 @@
         "#neooAI-hub-clarify": {
             "scaleInDock": 1
         },
+        "neooAI-hub-academy.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1358,
+                "y": 1142
+            }
+        },
+        "neooAI-hub-academy.json#Collides": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "neooAI-hub-academy.json#neooAI-hub-academy": {
+            "scaleInDock": 1
+        },
         "neooAI-hub-analyze.json": {
             "scale": 1,
-            "selectedLayer": 4,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1427.5,
-                "y": 1193
+                "x": 1423.5,
+                "y": 783.5
             }
         },
         "neooAI-hub-analyze.json#Collides": {
@@ -35,8 +52,8 @@
             "scale": 0.75,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1396,
-                "y": 1148
+                "x": 1393.3333333333335,
+                "y": 1144
             }
         },
         "neooAI-hub-clarify.json#Collides": {
@@ -46,11 +63,11 @@
             "scaleInDock": 1
         },
         "neooAI-hub-lobby.json": {
-            "scale": 0.5,
-            "selectedLayer": 13,
+            "scale": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 1242,
-                "y": 738
+                "x": 1032,
+                "y": 756
             }
         },
         "neooAI-hub-lobby.json#Collides": {
@@ -63,12 +80,26 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "neooAI-hub-representative.json": {
+            "scale": 0.33,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1393.939393939394,
+                "y": 1127.2727272727273
+            }
+        },
+        "neooAI-hub-representative.json#Collides": {
+            "scaleInDock": 1
+        },
+        "neooAI-hub-representative.json#neooAI-hub-representative": {
+            "scaleInDock": 1
+        },
         "neooAI-hub-search.json": {
             "scale": 0.75,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 1216.6666666666667,
-                "y": 976
+                "x": 1455.3333333333333,
+                "y": 815.3333333333333
             }
         },
         "neooAI-hub-search.json#Collides": {
@@ -82,10 +113,20 @@
     "map.lastUsedFormat": "json",
     "map.width": 91,
     "openFiles": [
+        "neooAI-hub-lobby.json",
+        "neooAI-hub-analyze.json",
+        "neooAI-hub-search.json",
+        "neooAI-hub-clarify.json",
+        "neooAI-hub-academy.json"
     ],
     "project": "neooAI-hub.tiled-project",
-    "property.type": "string",
+    "property.type": "bool",
     "recentFiles": [
+        "neooAI-hub-academy.json",
+        "neooAI-hub-clarify.json",
+        "neooAI-hub-search.json",
+        "neooAI-hub-analyze.json",
+        "neooAI-hub-lobby.json"
     ],
     "tileset.embedInMap": true
 }

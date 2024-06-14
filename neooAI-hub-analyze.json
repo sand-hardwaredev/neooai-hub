@@ -355,8 +355,8 @@
                  "properties":[
                         {
                          "name":"url",
-                         "type":"bool",
-                         "value":false
+                         "type":"string",
+                         "value":""
                         }]
                 }, 
                 {
