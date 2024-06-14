@@ -188,7 +188,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"neooAi-hub-lobby.json#start-from-academy"
+                 "value":"neooAI-hub-lobby.json#start-from-academy"
                 }],
          "type":"tilelayer",
          "visible":true,

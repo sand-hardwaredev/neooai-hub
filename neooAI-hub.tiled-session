@@ -64,10 +64,10 @@
         },
         "neooAI-hub-lobby.json": {
             "scale": 1,
-            "selectedLayer": 5,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1032,
-                "y": 756
+                "x": 1031,
+                "y": 755
             }
         },
         "neooAI-hub-lobby.json#Collides": {
@@ -95,15 +95,15 @@
             "scaleInDock": 1
         },
         "neooAI-hub-search.json": {
-            "scale": 0.75,
-            "selectedLayer": 6,
+            "scale": 1,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 1455.3333333333333,
-                "y": 815.3333333333333
+                "x": 1444,
+                "y": 857
             }
         },
         "neooAI-hub-search.json#Collides": {
-            "scaleInDock": 1
+            "scaleInDock": 0.5
         },
         "neooAI-hub-search.json#neooAI-hub-search": {
             "scaleInDock": 1
