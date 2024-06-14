@@ -371,7 +371,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/docai.videoserver.neooverse.com"
                         }]
                 }, 
                 {
