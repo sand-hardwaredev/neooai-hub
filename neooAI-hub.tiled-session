@@ -22,8 +22,8 @@
             "scale": 0.75,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 2027.3333333333333,
-                "y": 1325.3333333333333
+                "x": 2026,
+                "y": 1324
             }
         },
         "neooAI-hub-academy.json#Collides": {
@@ -37,8 +37,8 @@
             "scale": 0.75,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1875.3333333333333,
-                "y": 1177.3333333333333
+                "x": 1423.3333333333333,
+                "y": 783.3333333333333
             }
         },
         "neooAI-hub-analyze.json#Collides": {
@@ -53,8 +53,8 @@
             "scale": 0.33,
             "selectedLayer": 3,
             "viewCenter": {
-                "x": 1687.878787878788,
-                "y": 790.9090909090908
+                "x": 1422.727272727273,
+                "y": 786.3636363636363
             }
         },
         "neooAI-hub-clarify.json#Collides": {
@@ -68,8 +68,8 @@
             "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 1453,
-                "y": 813
+                "x": 1455.5,
+                "y": 815.5
             }
         },
         "neooAI-hub-exterior.json#Collides": {
@@ -82,8 +82,8 @@
             "scale": 0.75,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1599.333333333333,
-                "y": 765.3333333333334
+                "x": 1423.3333333333333,
+                "y": 783.3333333333333
             }
         },
         "neooAI-hub-lobby.json#Collides": {
@@ -98,10 +98,10 @@
         },
         "neooAI-hub-representative.json": {
             "scale": 0.75,
-            "selectedLayer": 0,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 1579.333333333333,
-                "y": 638.6666666666665
+                "x": 1364.6666666666665,
+                "y": 637.3333333333334
             }
         },
         "neooAI-hub-representative.json#Collides": {
@@ -114,8 +114,8 @@
             "scale": 0.75,
             "selectedLayer": 4,
             "viewCenter": {
-                "x": 1420,
-                "y": 781.3333333333334
+                "x": 1423.3333333333333,
+                "y": 783.3333333333333
             }
         },
         "neooAI-hub-search.json#Collides": {
